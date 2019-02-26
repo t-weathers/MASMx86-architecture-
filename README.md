@@ -1,5 +1,5 @@
 # MASMx86-architecture
-This repository is the assignments and work I have done for Computer Architectures and Assembly Language course at Oregon State University in CS 271, Computer Acrhitecture and Assembly Language
+This repository is the assignments and work I have done for Computer Architectures and Assembly Language course at Oregon State University in CS 271, Computer Acrhitecture and Assembly Language taken in Winter term of 2019
 
 All of these assignments utilize the Irvine.32 library and the  Kip Irvine "Assembly Language for x86 Processors" textbook
 All assignment prompts are not designed by me, and are credited to Oregon State University
